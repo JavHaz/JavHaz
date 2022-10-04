@@ -1,10 +1,10 @@
 ### Hi :octocat: ! This is the bit about my skills
 
-- Currently learning ✨Backend✨ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
+- Currently learning ✨Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="25" height="25" />
   as well as Databases (PostgreSQL
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25" />
-  ). :octocat:
+  ). 
 
 🚀 Current projects:
 
